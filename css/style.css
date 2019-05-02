@@ -828,6 +828,8 @@ input:-webkit-autofill {
     margin-bottom: 30px;
 }
 
+
+
 .single_item img{
     width: 100%;
     transition: all ease 0.3s;
@@ -1268,7 +1270,6 @@ a.site-button{
      animation-name: none !important;
         visibility: visible !important;
 }
-
 
 
 

@@ -226,6 +226,8 @@ $('.responsive').on('click', function (e) {
 
 
 
+
+
 /* Contact Form JS*/
 (function($){
    'use strict'; 
